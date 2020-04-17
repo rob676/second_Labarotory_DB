@@ -10,7 +10,6 @@ country varchar(60) NOT NULL
 CREATE TABLE region(
 region varchar(70) NOT NULL
 ,country varchar(60) NOT NULL
-, CONSTRAINT region_pk 
-PRIMARY KEY (region)
+, CONSTRAINT region_pk PRIMARY KEY (region)
 ,CONSTRAINT country_fk FOREIGN KEY (country) REFERENCES country (country)
 );
