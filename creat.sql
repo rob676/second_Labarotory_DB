@@ -2,9 +2,7 @@ CREATE TABLE country(
 country varchar(60) NOT NULL
 ,coastline float NULL
 ,net_migration float NULL
-,infant_mortality float NULL
 ,GDP float NULL
-,literacy float NULL
 ,CONSTRAINT country_pk PRIMARY KEY (country)
 );
 
