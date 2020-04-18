@@ -1,6 +1,6 @@
 import cx_Oracle
 
-conn = cx_Oracle.connect('create.sqlite')
+conn = cx_Oracle.connect("SYSTEM","2805052001","@lockalhost:1521/xe")
 cur = conn.cursor()
 
 cur.execute('''
