@@ -1,15 +1,16 @@
 CREATE TABLE country(
-country varchar(60) NOT NULL
-,coastline float NULL
-,net_migration float NULL
-,GDP float NULL
+country varchar(128) NOT NULL
+,region_id number(6) NOT NULL
+,coastline number(38,2) NULL
+,net_migration number(38,2) NULL
+,GDP number(38,2) NULL
 ,CONSTRAINT country_pk PRIMARY KEY (country)
+,CONSTRAINT country_fk FOREIGN KEY (region_id) REFERENCES region (region_id)
 );
 
 
 CREATE TABLE region(
-region varchar(70) NOT NULL
-,country varchar(60) NOT NULL
-, CONSTRAINT region_pk PRIMARY KEY (region)
-,CONSTRAINT country_fk FOREIGN KEY (country) REFERENCES country (country)
+region varchar2(128) NOT NULL
+,region_id number(6) NOT NULL
+, CONSTRAINT region_pk PRIMARY KEY (region_id)
 );
