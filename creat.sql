@@ -1,11 +1,11 @@
 CREATE TABLE country(
 country varchar(128) NOT NULL
-,region_id number(6) NOT NULL
+,region varchar(128) NOT NULL
 ,coastline number(38,2) NULL
 ,net_migration number(38,2) NULL
 ,GDP number(38,2) NULL
 ,CONSTRAINT country_pk PRIMARY KEY (country)
-,CONSTRAINT country_fk FOREIGN KEY (region_id) REFERENCES region (region_id)
+
 );
 
 
