@@ -1,6 +1,6 @@
 import cx_Oracle
 
-conn = cx_Oracle.connect("SYSTEM","2805052001","@lockalhost:1521/xe")
+conn = cx_Oracle.connect("SYSTEM","2805052001","lockalhost/xe")
 cur = conn.cursor()
 
 cur.execute('''
@@ -44,3 +44,4 @@ ORDER BY  migrations DESC;
 rows = cur.fetchall()
 print(rows)
 conn.commit()
+conn.close()
