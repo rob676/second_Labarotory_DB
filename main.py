@@ -11,7 +11,7 @@ FROM country
 INNER JOIN region
 ON country.region_id= region.region_id 
 GROUP BY region.region
-ORDER BY  coastline DESC;
+ORDER BY  coastline DESC
 
 ''')
 
@@ -25,7 +25,7 @@ SUM(country.gdp) AS GDP
 FROM country
 INNER JOIN region
 ON country.region_id= region.region_id 
-GROUP BY region.region;
+GROUP BY region.region
 ''')
 
 rows = cur.fetchall()
@@ -38,10 +38,11 @@ FROM country
 INNER JOIN region
 ON country.region_id= region.region_id 
 GROUP BY region.region
-ORDER BY  migrations DESC;
+ORDER BY  migrations DESC
 ''')
 
 rows = cur.fetchall()
 print(rows)
 conn.commit()
 cur.close()
+conn.close()

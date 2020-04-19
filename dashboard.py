@@ -12,7 +12,7 @@ ROUND(AVG(coastline),3) AS coastline
 FROM country
 INNER JOIN region
 ON country.region_id= region.region_id 
-GROUP BY region.region;
+GROUP BY region.region
 
 ''')
 rows = cur.fetchall()
@@ -59,7 +59,7 @@ SUM(country.gdp) AS GDP
 FROM country
 INNER JOIN region
 ON country.region_id= region.region_id
-GROUP BY region.region;
+GROUP BY region.region
 ''')
 
 
@@ -79,7 +79,7 @@ round(SUM(net_migration),3) AS migrations
 FROM country
 INNER JOIN region
 ON country.region_id= region.region_id 
-GROUP BY region.region;
+GROUP BY region.region
 ''')
 
 rows = cur.fetchall()
@@ -135,3 +135,4 @@ py.dashboard_ops.upload(my_dboard, 'Dashboard')
 
 conn.commit()
 cur.close()
+conn.close()
