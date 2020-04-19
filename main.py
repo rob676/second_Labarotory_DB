@@ -43,5 +43,5 @@ ORDER BY  migrations DESC;
 
 rows = cur.fetchall()
 print(rows)
-conn.commit()
+
 conn.close()
