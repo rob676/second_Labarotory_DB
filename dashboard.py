@@ -133,4 +133,5 @@ my_dboard.insert(box_3, 'left', 2)
 
 py.dashboard_ops.upload(my_dboard, 'Dashboard')
 
-conn.close()
+conn.commit()
+cur.close()
