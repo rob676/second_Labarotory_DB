@@ -43,6 +43,9 @@ ORDER BY  migrations DESC
 
 rows = cur.fetchall()
 print(rows)
+
 conn.commit()
 cur.close()
+
+
 conn.close()
