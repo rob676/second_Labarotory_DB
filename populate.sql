@@ -60,19 +60,19 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Angola ', 'SUB-SAHARAN AFRICA                 ', 0.13, 0, 1900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Anguilla ', 'LATIN', 59.80, 10.76, 8600);
+VALUES ('Anguilla ', 'LATIN AMER. & CARIB    ', 59.80, 10.76, 8600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Antigua & Barbuda ', 'LATIN', 34.54, -6.15, 11000);
+VALUES ('Antigua & Barbuda ', 'LATIN AMER. & CARIB    ', 34.54, -6.15, 11000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Argentina ', 'LATIN', 0.18, 0.61, 11200);
+VALUES ('Argentina ', 'LATIN AMER. & CARIB    ', 0.18, 0.61, 11200);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Armenia ', 'C.W. OF IND. STATES ', 0.00, -6.47, 3500);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Aruba ', 'LATIN', 35.49, 0, 28000);
+VALUES ('Aruba ', 'LATIN AMER. & CARIB    ', 35.49, 0, 28000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Australia ', 'OCEANIA                            ', 0.34, 3.98, 29000);
@@ -84,7 +84,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Azerbaijan ', 'C.W. OF IND. STATES ', 0.00, -4.9, 3400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Bahamas, The ', 'LATIN', 25.41, -2.2, 16700);
+VALUES ('Bahamas, The ', 'LATIN AMER. & CARIB    ', 25.41, -2.2, 16700);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Bahrain ', 'NEAR EAST                          ', 24.21, 1.05, 16900);
@@ -93,7 +93,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Bangladesh ', 'ASIA (EX. NEAR EAST)         ', 0.40, -0.71, 1900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Barbados ', 'LATIN', 22.51, -0.31, 15700);
+VALUES ('Barbados ', 'LATIN AMER. & CARIB    ', 22.51, -0.31, 15700);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Belarus ', 'C.W. OF IND. STATES ', 0.00, 2.54, 6100);
@@ -102,7 +102,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Belgium ', 'WESTERN EUROPE                     ', 0.22, 1.23, 29100);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Belize ', 'LATIN', 1.68, 0, 4900);
+VALUES ('Belize ', 'LATIN AMER. & CARIB    ', 1.68, 0, 4900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Benin ', 'SUB-SAHARAN AFRICA                 ', 0.11, 0, 1100);
@@ -114,7 +114,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Bhutan ', 'ASIA (EX. NEAR EAST)         ', 0.00, 0, 1300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Bolivia ', 'LATIN', 0.00, -1.32, 2400);
+VALUES ('Bolivia ', 'LATIN AMER. & CARIB    ', 0.00, -1.32, 2400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Bosnia & Herzegovina ', 'EASTERN EUROPE                     ', 0.04, 0.31, 6100);
@@ -123,10 +123,10 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Botswana ', 'SUB-SAHARAN AFRICA                 ', 0.00, 0, 9000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Brazil ', 'LATIN', 0.09, -0.03, 7600);
+VALUES ('Brazil ', 'LATIN AMER. & CARIB    ', 0.09, -0.03, 7600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('British Virgin Is. ', 'LATIN', 52.29, 10.01, 16000);
+VALUES ('British Virgin Is. ', 'LATIN AMER. & CARIB    ', 52.29, 10.01, 16000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Brunei ', 'ASIA (EX. NEAR EAST)         ', 2.79, 3.59, 18600);
@@ -156,7 +156,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Cape Verde ', 'SUB-SAHARAN AFRICA                 ', 23.93, -12.07, 1400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Cayman Islands ', 'LATIN', 61.07, 18.75, 35000);
+VALUES ('Cayman Islands ', 'LATIN AMER. & CARIB    ', 61.07, 18.75, 35000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Central African Rep. ', 'SUB-SAHARAN AFRICA                 ', 0.00, 0, 1100);
@@ -165,13 +165,13 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Chad ', 'SUB-SAHARAN AFRICA                 ', 0.00, -0.11, 1200);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Chile ', 'LATIN', 0.85, 0, 9900);
+VALUES ('Chile ', 'LATIN AMER. & CARIB    ', 0.85, 0, 9900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('China ', 'ASIA (EX. NEAR EAST)         ', 0.15, -0.4, 5000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Colombia ', 'LATIN', 0.28, -0.31, 6300);
+VALUES ('Colombia ', 'LATIN AMER. & CARIB    ', 0.28, -0.31, 6300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Comoros ', 'SUB-SAHARAN AFRICA                 ', 15.67, 0, 700);
@@ -186,7 +186,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Cook Islands ', 'OCEANIA                            ', 50.00, NULL, 5000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Costa Rica ', 'LATIN', 2.52, 0.51, 9100);
+VALUES ('Costa Rica ', 'LATIN AMER. & CARIB    ', 2.52, 0.51, 9100);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Cote d''Ivoire ', 'SUB-SAHARAN AFRICA                 ', 0.16, -0.07, 1400);
@@ -195,7 +195,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Croatia ', 'EASTERN EUROPE                     ', 10.32, 1.58, 10600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Cuba ', 'LATIN', 3.37, -1.58, 2900);
+VALUES ('Cuba ', 'LATIN AMER. & CARIB    ', 3.37, -1.58, 2900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Cyprus ', 'NEAR EAST                          ', 7.01, 0.43, 19200);
@@ -210,22 +210,22 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Djibouti ', 'SUB-SAHARAN AFRICA                 ', 1.37, 0, 1300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Dominica ', 'LATIN', 19.63, -13.87, 5400);
+VALUES ('Dominica ', 'LATIN AMER. & CARIB    ', 19.63, -13.87, 5400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Dominican Republic ', 'LATIN', 2.64, -3.22, 6000);
+VALUES ('Dominican Republic ', 'LATIN AMER. & CARIB    ', 2.64, -3.22, 6000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('East Timor ', 'ASIA (EX. NEAR EAST)         ', 4.70, 0, 500);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Ecuador ', 'LATIN', 0.79, -8.58, 3300);
+VALUES ('Ecuador ', 'LATIN AMER. & CARIB    ', 0.79, -8.58, 3300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Egypt ', 'NORTHERN AFRICA                    ', 0.24, -0.22, 4000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('El Salvador ', 'LATIN', 1.46, -3.74, 4800);
+VALUES ('El Salvador ', 'LATIN AMER. & CARIB    ', 1.46, -3.74, 4800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Equatorial Guinea ', 'SUB-SAHARAN AFRICA                 ', 1.06, 0, 2700);
@@ -252,7 +252,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('France ', 'WESTERN EUROPE                     ', 0.63, 0.66, 27600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('French Guiana ', 'LATIN', 0.42, 6.27, 8300);
+VALUES ('French Guiana ', 'LATIN AMER. & CARIB    ', 0.42, 6.27, 8300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('French Polynesia ', 'OCEANIA                            ', 60.60, 2.94, 17500);
@@ -285,16 +285,16 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Greenland ', 'NORTHERN AMERICA                   ', 2.04, -8.37, 20000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Grenada ', 'LATIN', 35.17, -13.92, 5000);
+VALUES ('Grenada ', 'LATIN AMER. & CARIB    ', 35.17, -13.92, 5000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Guadeloupe ', 'LATIN', 17.19, -0.15, 8000);
+VALUES ('Guadeloupe ', 'LATIN AMER. & CARIB    ', 17.19, -0.15, 8000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Guam ', 'OCEANIA                            ', 23.20, 0, 21000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Guatemala ', 'LATIN', 0.37, -1.67, 4100);
+VALUES ('Guatemala ', 'LATIN AMER. & CARIB    ', 0.37, -1.67, 4100);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Guernsey ', 'WESTERN EUROPE                     ', 64.10, 3.84, 20000);
@@ -306,13 +306,13 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Guinea-Bissau ', 'SUB-SAHARAN AFRICA                 ', 0.97, -1.57, 800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Guyana ', 'LATIN', 0.21, -2.07, 4000);
+VALUES ('Guyana ', 'LATIN AMER. & CARIB    ', 0.21, -2.07, 4000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Haiti ', 'LATIN', 6.38, -3.4, 1600);
+VALUES ('Haiti ', 'LATIN AMER. & CARIB    ', 6.38, -3.4, 1600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Honduras ', 'LATIN', 0.73, -1.99, 2600);
+VALUES ('Honduras ', 'LATIN AMER. & CARIB    ', 0.73, -1.99, 2600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Hong Kong ', 'ASIA (EX. NEAR EAST)         ', 67.12, 5.24, 28800);
@@ -348,7 +348,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Italy ', 'WESTERN EUROPE                     ', 2.52, 2.07, 26700);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Jamaica ', 'LATIN', 9.30, -4.92, 3900);
+VALUES ('Jamaica ', 'LATIN AMER. & CARIB    ', 9.30, -4.92, 3900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Japan ', 'ASIA (EX. NEAR EAST)         ', 7.87, 0, 28200);
@@ -447,7 +447,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Mayotte ', 'SUB-SAHARAN AFRICA                 ', 49.52, 6.78, 2600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Mexico ', 'LATIN', 0.47, -4.87, 9000);
+VALUES ('Mexico ', 'LATIN AMER. & CARIB    ', 0.47, -4.87, 9000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Micronesia, Fed. St. ', 'OCEANIA                            ', 870.66, -20.99, 2000);
@@ -483,7 +483,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Netherlands ', 'WESTERN EUROPE                     ', 1.09, 2.91, 28600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Netherlands Antilles ', 'LATIN', 37.92, -0.41, 11400);
+VALUES ('Netherlands Antilles ', 'LATIN AMER. & CARIB    ', 37.92, -0.41, 11400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('New Caledonia ', 'OCEANIA                            ', 11.83, 0, 15000);
@@ -492,7 +492,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('New Zealand ', 'OCEANIA                            ', 5.63, 4.05, 21600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Nicaragua ', 'LATIN', 0.70, -1.22, 2300);
+VALUES ('Nicaragua ', 'LATIN AMER. & CARIB    ', 0.70, -1.22, 2300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Niger ', 'SUB-SAHARAN AFRICA                 ', 0.00, -0.67, 800);
@@ -516,16 +516,16 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Palau ', 'OCEANIA                            ', 331.66, 2.85, 9000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Panama ', 'LATIN', 3.18, -0.91, 6300);
+VALUES ('Panama ', 'LATIN AMER. & CARIB    ', 3.18, -0.91, 6300);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Papua New Guinea ', 'OCEANIA                            ', 1.11, 0, 2200);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Paraguay ', 'LATIN', 0.00, -0.08, 4700);
+VALUES ('Paraguay ', 'LATIN AMER. & CARIB    ', 0.00, -0.08, 4700);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Peru ', 'LATIN', 0.19, -1.05, 5100);
+VALUES ('Peru ', 'LATIN AMER. & CARIB    ', 0.19, -1.05, 5100);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Philippines ', 'ASIA (EX. NEAR EAST)         ', 12.10, -1.5, 4600);
@@ -537,7 +537,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Portugal ', 'WESTERN EUROPE                     ', 1.94, 3.57, 18000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Puerto Rico ', 'LATIN', 3.63, -1.46, 16800);
+VALUES ('Puerto Rico ', 'LATIN AMER. & CARIB    ', 3.63, -1.46, 16800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Qatar ', 'NEAR EAST                          ', 4.92, 16.29, 21500);
@@ -558,16 +558,16 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Saint Helena ', 'SUB-SAHARAN AFRICA                 ', 14.53, 0, 2500);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Saint Kitts & Nevis ', 'LATIN', 51.72, -7.11, 8800);
+VALUES ('Saint Kitts & Nevis ', 'LATIN AMER. & CARIB    ', 51.72, -7.11, 8800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Saint Lucia ', 'LATIN', 25.65, -2.67, 5400);
+VALUES ('Saint Lucia ', 'LATIN AMER. & CARIB    ', 25.65, -2.67, 5400);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('St Pierre & Miquelon ', 'NORTHERN AMERICA                   ', 49.59, -4.86, 6900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Saint Vincent and the Grenadines ', 'LATIN', 21.59, -7.64, 2900);
+VALUES ('Saint Vincent and the Grenadines ', 'LATIN AMER. & CARIB    ', 21.59, -7.64, 2900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Samoa ', 'OCEANIA                            ', 13.69, -11.7, 5600);
@@ -621,7 +621,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Sudan ', 'SUB-SAHARAN AFRICA                 ', 0.03, -0.02, 1900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Suriname ', 'LATIN', 0.24, -8.81, 4000);
+VALUES ('Suriname ', 'LATIN AMER. & CARIB    ', 0.24, -8.81, 4000);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Swaziland ', 'SUB-SAHARAN AFRICA                 ', 0.00, 0, 4900);
@@ -654,7 +654,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Tonga ', 'OCEANIA                            ', 56.02, 0, 2200);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Trinidad & Tobago ', 'LATIN', 7.06, -10.83, 9500);
+VALUES ('Trinidad & Tobago ', 'LATIN AMER. & CARIB    ', 7.06, -10.83, 9500);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Tunisia ', 'NORTHERN AFRICA                    ', 0.70, -0.57, 6900);
@@ -666,7 +666,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Turkmenistan ', 'C.W. OF IND. STATES ', 0.00, -0.86, 5800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Turks & Caicos Is ', 'LATIN', 90.47, 11.68, 9600);
+VALUES ('Turks & Caicos Is ', 'LATIN AMER. & CARIB    ', 90.47, 11.68, 9600);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Tuvalu ', 'OCEANIA                            ', 92.31, 0, 1100);
@@ -687,7 +687,7 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('United States ', 'NORTHERN AMERICA                   ', 0.21, 3.41, 37800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Uruguay ', 'LATIN', 0.37, -0.32, 12800);
+VALUES ('Uruguay ', 'LATIN AMER. & CARIB    ', 0.37, -0.32, 12800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Uzbekistan ', 'C.W. OF IND. STATES ', 0.00, -1.72, 1700);
@@ -696,13 +696,13 @@ INSERT INTO country (Country, Region, Coastline, net_migration, GDP)
 VALUES ('Vanuatu ', 'OCEANIA                            ', 20.72, 0, 2900);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Venezuela ', 'LATIN', 0.31, -0.04, 4800);
+VALUES ('Venezuela ', 'LATIN AMER. & CARIB    ', 0.31, -0.04, 4800);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Vietnam ', 'ASIA (EX. NEAR EAST)         ', 1.05, -0.45, 2500);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
-VALUES ('Virgin Islands ', 'LATIN', 9.84, -8.94, 17200);
+VALUES ('Virgin Islands ', 'LATIN AMER. & CARIB    ', 9.84, -8.94, 17200);
 
 INSERT INTO country (Country, Region, Coastline, net_migration, GDP) 
 VALUES ('Wallis and Futuna ', 'OCEANIA                            ', 47.08, NULL, 3700);
